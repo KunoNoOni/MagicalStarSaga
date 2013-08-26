@@ -1,0 +1,1 @@
+This is my Game Submission for the Ludum Dare 27. The theme was "10 seconds". I made a platformer where you lose health every 10 seconds, once it gets to 0 you die and then start over again. There are 5 areas you need to complete and you need to collect all the stars in those levels exit the level. 
